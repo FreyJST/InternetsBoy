@@ -14,15 +14,15 @@
 
     [![telegram badge](https://img.shields.io/badge/Telegram-30302f?style=for-the-badge&logo=telegram)](https://t.me/cywar)
     [![mailid badge](https://img.shields.io/badge/Mail_Me-30302f?style=for-the-badge&logo=gmail)](mailto:free3y@gmail.com)
-    [![twitter badge](https://img.shields.io/badge/Follow_Me-30302f?style=for-the-badge&logo=twitter)](https://twitter.com/frey4894)
-    [![Instagram badge](https://img.shields.io/badge/Follow_Me-30302f?style=for-the-badge&logo=Instagram)](https://instagram.com/freycode)
+    [![twitter badge](https://img.shields.io/badge/Follow_Me-30302f?style=for-the-badge&logo=twitter)](https://twitter.com/Fr3yC0d3)
+    [![Instagram badge](https://img.shields.io/badge/Follow_Me-30302f?style=for-the-badge&logo=Instagram)](https://instagram.com/Fr3yC0d3)
 
 - 😄 Pronouns: He/His (Not an Bot)
 - ⚡  Fun fact:- I am still wearing Casio F-91W 
 - 🔓 working Hard To Keep You At:- [cybity](https://github.com/cybity) 
 
-[![GitHub fr3y](https://img.shields.io/github/followers/fr3y?label=follow&style=social)](https://github.com/Fr3y)
-[![Twitter: free3y](https://img.shields.io/twitter/follow/frey4894?style=social)](https://twitter.com/frey4894)
+[![GitHub ](https://img.shields.io/github/followers/Fr3yC0d3?label=follow&style=social)](https://github.com/Fr3yC0d3)
+[![Twitter:](https://img.shields.io/twitter/follow/Fr3yC0d3?style=social)](https://twitter.com/Fr3yC0d3)
 
 
 **Languages and Tools:**  
@@ -39,7 +39,7 @@
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fr3y&show_icons=true&theme=chartreuse-dark" alt="fr3y" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Fr3yC0d3&show_icons=true&theme=chartreuse-dark" alt="Fr3yC0d3" />
 
 
 <h5> This is Frey, And I have an Messenger For you <br>
