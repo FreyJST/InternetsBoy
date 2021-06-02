@@ -3,7 +3,7 @@
 ### Hello there 👋 Visitor's Nice To See You Around.
 ### Fr3y is a Newbie in programming world but improving Day by Day. 
 ### AIM :- You will see that soon 
-<img src ="https://fr3yc0d3.blogspot.com/2021/06/some-arts.html.jpg">
+<img src ="https://lh3.googleusercontent.com/-WWC1EvmGVcw/YLefhw2eFLI/AAAAAAAAABQ/5ShpvO24PYYOJa22YWMJ3osaU63NI4vZgCNcBGAsYHQ/s1600/1622646660135197-2.png/1500x500">
 
 - 🔭 I’m currently working on :- [100 Day's of code](https://github.com/fr3y/100daysofcode)
 - 🌱 I’m currently learning 👇👇👇 <h4>C/C++</h4><h5>Python(Adv)</h5><h6>Nord.js</h6>
