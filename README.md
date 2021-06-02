@@ -1,10 +1,10 @@
 ![Profile views](https://komarev.com/ghpvc/?username=fr3y&color=blue&style=flat-square&label=Profile+Views)
 
 
-    [![telegram badge](https://img.shields.io/badge/Telegram-30302f?style=for-the-badge&logo=telegram)](https://t.me/cywar)
-    [![mailid badge](https://img.shields.io/badge/Mail_Me-30302f?style=for-the-badge&logo=gmail)](mailto:free3y@gmail.com)
-    [![twitter badge](https://img.shields.io/badge/Follow_Me-30302f?style=for-the-badge&logo=twitter)](https://twitter.com/Fr3yC0d3)
-    [![Instagram badge](https://img.shields.io/badge/Follow_Me-30302f?style=for-the-badge&logo=Instagram)](https://instagram.com/Fr3yC0d3)
+  [![telegram badge](https://img.shields.io/badge/Telegram-30302f?style=for-the-badge&logo=telegram)](https://t.me/cywar)
+  [![mailid badge](https://img.shields.io/badge/Mail_Me-30302f?style=for-the-badge&logo=gmail)](mailto:free3y@gmail.com)
+  [![twitter badge](https://img.shields.io/badge/Follow_Me-30302f?style=for-the-badge&logo=twitter)](https://twitter.com/Fr3yC0d3)
+  [![Instagram badge](https://img.shields.io/badge/Follow_Me-30302f?style=for-the-badge&logo=Instagram)](https://instagram.com/Fr3yC0d3)
 
 - ⚡  Fun fact:- I am still wearing Casio F-91W 
 
