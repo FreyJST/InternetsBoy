@@ -15,7 +15,7 @@ Well, it seems like you Finally Got me and reached my Github
   cool to me and for users 
 
 ## How to contact me ? 
-   `There are totally differnt ways to connect with like` 
+   `There are Several ways to connect with me` 
 
   [![telegram badge](https://img.shields.io/badge/Telegram-30302f?style=for-the-badge&logo=telegram)](https://t.me/cywar)
   [![twitter badge](https://img.shields.io/badge/Follow_Me-30302f?style=for-the-badge&logo=twitter)](https://twitter.com/Fr3yC0d3)
