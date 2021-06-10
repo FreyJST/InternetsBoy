@@ -1,18 +1,107 @@
 ![Profile views](https://komarev.com/ghpvc/?username=fr3y&color=blue&style=flat-square&label=Profile+Views)
 
-# Hello, World! 
-Well, it seems like you Finally Got me and reached my Github  
+## Hello There Devlopers , it's Frey Here :)  
 
-## WHO AM I ? 
-   I am known as Fr3yc0de, Frey, Fr3y , yoronokami but my friends and peoples within my circle call me Frey. i'm just a ordinary noob on the internet who have 
-   passion to work on Linux distribution Software 
-   I am using Kali Linux since 2017 
-   i fall in love with C Language when i was in 9th grade 
-   
-## Are You a Pro Programmer or better than others
+you finally got me eh? 
 
-  No, Not at all i'm not a pro programmer or better than others i just love to make differnt projects or which at least looks
-  cool to me and for users 
+I didn't expected this tho. well as you are already here why now just talk a Little bit what you say, nice well here is your ☕ coffee. And Have a lil 
+FAQ
+
+<img src ="https://telegra.ph/file/b4e35fb8e7009601baaaa.jpg">
+
+[General]
+
+Who are you ? 
+
+I'm Frey 🐉 19 year old Software developer I used to work with Linux/UNIX system since I was in my middle school I install Linux accidentally and then whole this journey started.
+
+You are from ? 
+
+well people usually asked this question (like almost everyone and I don't know why ? maybe it's because of human nature ?) well I'm from inda or I better say Im living in india :) right now.
+
+
+
+When you joined telegram and how ? 
+
+I joined this awesome application in the end of 2019 
+
+I don't remember exactly how I end up here but it must be some random article I was reading on internet [something on users privacy]
+
+
+
+Why are you using telegram ? 
+
+Well after when and how I joined telegram I think this will be the next question in mind I started to use telegram because of its API and bot making modules 
+
+when I joined telegram I was in almost every developer communities including programming help / support groups I was amazed how people used to help each other, mostly in support groups.
+
+
+
+What you do except programming ? 
+
+well this one is interesting question as I have quite a bit intresting hobbies and one of the best is Editing photos and making logos I love to make logos and edit pics in past I used to write blogs :) now when I read them I only laugh on those :)
+
+
+
+what you are doing right now ? 
+
+I'm doing my CSE (computer science engineering)
+
+but except that I read a lot about Cybersecurity well that's compulsory for because because of my CTF team.
+
+
+
+Have you did or made some noble ? 
+
+No sir/mam I didn't do anything Nobel or anything specific yet but I'm trying hard to do something for humanity for better future :) that's what my present self can do right now. and I don't want to be a rockstar as you can easily see users (people) here on telegram thinking they are rock star's mostly in Dev Communities like pro and noobs 
+
+please don't be like that :) 
+
+
+
+Who can code ? 
+
+Anyone Can.
+
+
+
+[Anime Related] 
+
+
+
+What's your 5 favourite Anime ? 
+
+1. Monster
+
+2. Samurai champloo
+
+3. One piece
+
+4. GTO
+
+5. Cowboy bebop
+
+
+
+What's your 5 favourite manga/Manhwa ?
+
+1. Liar Game 
+
+2. Vagabond
+
+3. Bastard (HWANG Youngchan)
+
+4. Kurosagi
+
+5. Rookies
+
+
+
+What you are watching these days now ? 
+
+I'm watching Planetes, Texhnolyze, One Piece  
+
+and in airing :- Tokyo revengers, higehiro 
 
 ## How to contact me ? 
    `There are Several ways to connect with me` 
