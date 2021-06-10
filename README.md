@@ -13,7 +13,7 @@ FAQ
 
 Who are you ? 
 
-I'm Frey 🐉 19 year old Software developer I used to work with Linux/UNIX system since I was in my middle school I install Linux accidentally and then whole this journey started.
+I'm Frey 🐉## year old Software developer I used to work with Linux/UNIX system since I was in my middle school I install Linux accidentally and then whole this journey started.
 
 You are from ? 
 
@@ -56,52 +56,6 @@ Have you did or made some noble ?
 No sir/mam I didn't do anything Nobel or anything specific yet but I'm trying hard to do something for humanity for better future :) that's what my present self can do right now. and I don't want to be a rockstar as you can easily see users (people) here on telegram thinking they are rock star's mostly in Dev Communities like pro and noobs 
 
 please don't be like that :) 
-
-
-
-Who can code ? 
-
-Anyone Can.
-
-
-
-[Anime Related] 
-
-
-
-What's your 5 favourite Anime ? 
-
-1. Monster
-
-2. Samurai champloo
-
-3. One piece
-
-4. GTO
-
-5. Cowboy bebop
-
-
-
-What's your 5 favourite manga/Manhwa ?
-
-1. Liar Game 
-
-2. Vagabond
-
-3. Bastard (HWANG Youngchan)
-
-4. Kurosagi
-
-5. Rookies
-
-
-
-What you are watching these days now ? 
-
-I'm watching Planetes, Texhnolyze, One Piece  
-
-and in airing :- Tokyo revengers, higehiro 
 
 ## How to contact me ? 
    `There are Several ways to connect with me` 
