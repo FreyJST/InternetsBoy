@@ -29,12 +29,9 @@ I don't remember exactly how I end up here but it must be some random article I 
 
 
 
-Why are you using telegram ? 
+Why are you using Github ? 
 
-Well after when and how I joined telegram I think this will be the next question in mind I started to use telegram because of its API and bot making modules 
-
-when I joined telegram I was in almost every developer communities including programming help / support groups I was amazed how people used to help each other, mostly in support groups.
-
+`To Work on Open SOurces and make a better world for everyone`
 
 
 What you do except programming ? 
