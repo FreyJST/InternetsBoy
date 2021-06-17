@@ -4,11 +4,6 @@
 
 you finally got me eh? 
 
-I didn't expected this tho. well as you are already here why now just talk a Little bit what you say, nice well here is your ☕ coffee. And Have a lil 
-FAQ
-
-<img src ="https://telegra.ph/file/b4e35fb8e7009601baaaa.jpg">
-
 [General]
 
 Who are you ? 
