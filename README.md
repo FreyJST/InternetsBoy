@@ -30,6 +30,7 @@ const thai = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-## And Always Remember if you want to know more about me just ` Give me Computer + internet and i will tell you who am i in real ~ Frey'
+## And Always Remember if you want to know more about me just 
+```Give me Computer + internet and i will tell you who am i in real ~ Frey```
 
 ---
