@@ -1,7 +1,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=fr3y&color=blue&style=flat-square&label=Profile+Views)
 
 
-<h2> Hi, I'm Frey! also Known as Fr3yc0d3 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Frey! also Known as Fr3yc0d3 <img src="http://images2.fanpop.com/image/photos/12800000/Ace-one-piece-12883119-304-200.gif" width="130"></h2>
 <img align='right' src="https://telegra.ph/file/e1d607994ca25275f4653.png" width="230">
 <p><em>CEO and Founder of <a href="http://github.com/cybity">CYBITY</a><img src="https://telegra.ph/file/ca0ba39fa96954191091d.png" width="30"></br>Hacking Scripts and Flags at <a href="https://github.com/Back-attack">Back-Attack</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
