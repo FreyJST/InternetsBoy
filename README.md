@@ -8,7 +8,7 @@
 
 [![Twitter: Fr3yc0d3](https://img.shields.io/twitter/follow/Fr3yc0d3?style=social)](https://twitter.com/Fr3yc0d3)
 [![Linkedin: Cybity](https://img.shields.io/badge/-cybity-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cybity/)](https://www.linkedin.com/in/cybity/)
-[![GitHub Fr3yc0d3](https://img.shields.io/github/followers/Fr3yc0d3?label=follow&style=social)](https://github.com/Fr3yc0d3)
+[![GitHub Fr3y](https://img.shields.io/github/followers/Fr3y?label=follow&style=social)](https://github.com/Fr3y)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
