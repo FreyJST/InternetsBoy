@@ -6,7 +6,7 @@
 <p><em>CEO and Founder of <a href="http://github.com/cybity">CYBITY</a><img src="https://telegra.ph/file/ca0ba39fa96954191091d.png" width="30"></br>Hacking Scripts and Flags at <a href="https://github.com/Back-attack">Back-Attack</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: Fr3yc0d3](https://img.shields.io/twitter/follow/Fr3yc0d3?style=social)](https://twitter.com/Fr3yc0d3)
+[![Twitter: Fr3yc0d3](https://img.shields.io/twitter/follow/Frey?style=social)](https://twitter.com/Fr3yc0d3)
 [![Linkedin: Cybity](https://img.shields.io/badge/-cybity-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cybity/)](https://www.linkedin.com/in/cybity/)
 [![GitHub Fr3y](https://img.shields.io/github/followers/Fr3y?label=follow&style=social)](https://github.com/Fr3y)
 
