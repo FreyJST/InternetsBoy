@@ -39,3 +39,7 @@ const thai = {
 ```Give me Computer + internet and i will tell you who am i in real ~ Frey```
 
 ---
+
+<h3 align="left">Statistics:</h3>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=fr3y&show_icons=true&locale=en" alt="fr3y"/></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=fr3y&" alt="fr3y" /></p>
