@@ -6,10 +6,11 @@
 <p><em>CEO and Founder of <a href="http://github.com/cybity">CYBITY</a><img src="https://telegra.ph/file/ca0ba39fa96954191091d.png" width="30"></br>Hacking Scripts and Flags at <a href="https://github.com/Back-attack">Back-Attack</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: Fr3yc0d3](https://img.shields.io/twitter/follow/Fr3YC0D3?style=social)](https://twitter.com/Fr3yc0d3)
-[![Linkedin: Cybity](https://img.shields.io/badge/-cybity-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cybity/)](https://www.linkedin.com/in/cybity/)
-[![GitHub Fr3y](https://img.shields.io/github/followers/Fr3y?label=follow&style=social)](https://github.com/Fr3y) 
+[![Twitter: Fr3yc0d3](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Fr3yc0d3)
+[![GitHub Fr3y](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fr3y)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](t.me/fr3yc0d3)
 [![Youtube](https://img.shields.io/badge/YouTube:-FR3YC0D3-FF0000?style=for-the-badge&logo=youtube:-FR3YC0D3&logoColor=white)](https://www.youtube.com/channel/fr3yc0d3)
+[![Gitlab Fr3y](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Fr3y)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
