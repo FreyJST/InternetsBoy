@@ -8,8 +8,8 @@
 
 [![Twitter: Fr3yc0d3](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Fr3yc0d3)
 [![GitHub Fr3y](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fr3y)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](t.me/fr3yc0d3)
-[![Youtube](https://img.shields.io/badge/YouTube:-FR3YC0D3-FF0000?style=for-the-badge&logo=youtube:-FR3YC0D3&logoColor=white)](https://www.youtube.com/channel/fr3yc0d3)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fr3yc0d3)
+[![Youtube](https://img.shields.io/badge/YouTube:-FR3YC0D3-FF0000?style=for-the-badge&logo=youtube:-FR3YC0D3&logoColor=white)](https://www.youtube.com/c/fr3yc0d3)
 [![Gitlab Fr3y](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Fr3y)
 
 
