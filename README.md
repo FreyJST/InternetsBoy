@@ -8,7 +8,8 @@
 
 [![Twitter: Fr3yc0d3](https://img.shields.io/twitter/follow/Fr3YC0D3?style=social)](https://twitter.com/Fr3yc0d3)
 [![Linkedin: Cybity](https://img.shields.io/badge/-cybity-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cybity/)](https://www.linkedin.com/in/cybity/)
-[![GitHub Fr3y](https://img.shields.io/github/followers/Fr3y?label=follow&style=social)](https://github.com/Fr3y)
+[![GitHub Fr3y](https://img.shields.io/github/followers/Fr3y?label=follow&style=social)](https://github.com/Fr3y) 
+[![Youtube](https://img.shields.io/badge/YouTube:-FR3YC0D3-FF0000?style=for-the-badge&logo=youtube:-FR3YC0D3&logoColor=white)](https://www.youtube.com/channel/fr3yc0d3)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -39,6 +40,7 @@ const thai = {
 ```Give me Computer + internet and i will tell you who am i in real ~ Frey```
 
 ---
+
 
 <h3 align="left">Statistics:</h3>
 
