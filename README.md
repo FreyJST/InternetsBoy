@@ -30,7 +30,7 @@ const thai = {
                         Team: "Backattack",
                        "Master Of Self Solving"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on C Check that on Twitter and Doing Ethical Hacking Callanges 1+hr per day check that on my blog" 
+ challenge: "Challange me in C/C++ i am doing various speedruns with my academics most of my codes are in C and Python" 
 }
 ```
 
