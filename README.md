@@ -1,6 +1,6 @@
 ![Profile views](https://komarev.com/ghpvc/?username=fr3y&color=blue&style=flat-square&label=Profile+Views)
 
-<img src="https://telegra.ph/file/1f1511810e86fbf16cc00.jpg">
+<img src="https://telegra.ph/file/03c3eb3c5c71a1ad31c2c.jpg">
 
 
 <h1 align="center">🐉 uwu you have reached Frey's Github </h1>
