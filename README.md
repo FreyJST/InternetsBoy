@@ -1,9 +1,10 @@
 ![Profile views](https://komarev.com/ghpvc/?username=fr3y&color=blue&style=flat-square&label=Profile+Views)
 
+<h1 align="center">🐉 uwu you have reached Frey's Github </h1>
+
 <img src="https://telegra.ph/file/03c3eb3c5c71a1ad31c2c.jpg">
 
 
-<h1 align="center">🐉 uwu you have reached Frey's Github </h1>
 <h3 align="center">🐉 Cyber Security Student Always in wires xD</h3>
 
 <h2> Hi, I'm Frey! also Known as Fr3yc0d3 <img src="http://images2.fanpop.com/image/photos/12800000/Ace-one-piece-12883119-304-200.gif" width="130"></h2>
