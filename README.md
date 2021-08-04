@@ -2,7 +2,7 @@
 
 <h1 align="center">🐉 uwu you have reached Frey's Github </h1>
 
-<img src="https://telegra.ph/file/03c3eb3c5c71a1ad31c2c.jpg">
+<img src="https://telegra.ph/file/7978504d7a040fcd72d67.png">
 
 
 <h3 align="center">🐉 Cyber Security Student Always in wires xD</h3>
