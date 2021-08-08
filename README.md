@@ -10,6 +10,7 @@
 [![Twitter: Fr3yc0d3](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Fr3yc0d3)
 [![Youtube](https://img.shields.io/badge/YouTube:-FR3YC0D3-FF0000?style=for-the-badge&logo=youtube:-FR3YC0D3&logoColor=white)](https://www.youtube.com/c/fr3yc0d3)
 
+
 ### 🐉 A little more about Frey
 
 ```
@@ -32,7 +33,39 @@ https://fr3yc0d3.github.io/Blog/
 ```
 https://github.com/cybity
 
+<p align="left">
+  <a href="https://www.youtube.com/channel/Fr3yc0d3"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+
 ```
+A little Bit About Frey
+I am a starter kernel developer working on new branches
+you can ask me anything regarding Python, Go, C/C++
+i also love to Built websites but i am newbie in web development.
+Mostly all of my codes are Open SOurce <3
+
+```
+
+### Blog
+
+``` 
+https://fr3yc0d3.github.io/Blog/ 
+
+```` 
+
+### Cyber security Cybity
+
+
+
+```
+https://github.com/cybity
+
+```
+
 
 ### Hacking Team Back-Attack
 
