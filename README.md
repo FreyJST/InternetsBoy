@@ -36,14 +36,6 @@ https://github.com/cybity
 ```
 
 
-### Blog
-
-``` 
-https://fr3yc0d3.github.io/Blog/ 
-
-```` 
-
-
 ### Cyber security Cybity
 
 
