@@ -12,8 +12,8 @@
 
 
 ### 🐉 A little more about Frey
-
 ```
+
 I am a starter kernel developer working on new branches
 you can ask me anything regarding Python, Go, C/C++
 i also love to Built websites but i am newbie in web development.
@@ -33,22 +33,8 @@ https://fr3yc0d3.github.io/Blog/
 ```
 https://github.com/cybity
 
-<p align="left">
-  <a href="https://www.youtube.com/channel/Fr3yc0d3"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-
-
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-
 ```
-A little Bit About Frey
-I am a starter kernel developer working on new branches
-you can ask me anything regarding Python, Go, C/C++
-i also love to Built websites but i am newbie in web development.
-Mostly all of my codes are Open SOurce <3
 
-```
 
 ### Blog
 
@@ -56,6 +42,7 @@ Mostly all of my codes are Open SOurce <3
 https://fr3yc0d3.github.io/Blog/ 
 
 ```` 
+
 
 ### Cyber security Cybity
 
