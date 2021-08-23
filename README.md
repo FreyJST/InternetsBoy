@@ -1,7 +1,5 @@
 ![Profile views](https://komarev.com/ghpvc/?username=fr3y&color=blue&style=flat-square&label=Profile+Views)
 
-<h1 align="center">Cyber Security Student, Always in wire🔌</h1>
-
 <img src="https://telegra.ph/file/43a728da685ed11e4d23e.png">
 
 [![GitHub Fr3y](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fr3y)
@@ -9,10 +7,10 @@
 [![Twitter: Fr3yc0d3](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Fr3yc0d3)
 [![Youtube](https://img.shields.io/badge/YouTube:-FR3YC0D3-FF0000?style=for-the-badge&logo=youtube:-FR3YC0D3&logoColor=white)](https://www.youtube.com/c/fr3yc0d3)
 
-<img src="https://telegra.ph/file/f961a32b77ec64f258a9a.gif" alt="Frey logo" width="300" height="300" align="right">
+
 
 ### About Frey
-
+<img align='right' src="https://telegra.ph/file/f961a32b77ec64f258a9a.gif" width="230">
 
 > I am a starter **kernel** developer working on new branches<br/>
 > you can ask me anything regarding Python, Go, C/C++<br/>
