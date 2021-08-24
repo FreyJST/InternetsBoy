@@ -10,12 +10,15 @@
 
 
 ### About Frey
-<img align='right' src="https://telegra.ph/file/f961a32b77ec64f258a9a.gif" width="230">
+
 
 > I am a starter **kernel** developer working on new branches<br/>
 > you can ask me anything regarding Python, Go, C/C++<br/>
+<img align='right' src="https://telegra.ph/file/f961a32b77ec64f258a9a.gif" width="230">
+
 > i also love to Built websites but i am kinda newbie in web development.<br/>
 > And Mostly all of my codes are Open Source :)
+
 - [x] [Cyber Security](https://github.com/cybity)
 - [x] [Bot Dev](https://github.com/Botprotocol)
 - [x] [Personal Projects](https://github.com/Fr3yc0d3)
