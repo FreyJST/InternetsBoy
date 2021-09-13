@@ -10,7 +10,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/HiFrey)
 
 
-### About Frey
+### About Frey 🐉
 
 
 > I am a starter **kernel** developer working on new branches<br/>
