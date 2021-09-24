@@ -7,7 +7,7 @@
 [![Twitter: Fr3yc0d3](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Fr3yc0d3)
 [![Youtube](https://img.shields.io/badge/YouTube:-FR3YC0D3-FF0000?style=for-the-badge&logo=youtube:-FR3YC0D3&logoColor=white)](https://www.youtube.com/c/fr3yc0d3)
 [![Discord](https://img.shields.io/discord/807245652072857610?color=blue&label=​&logo=discord&style=for-the-badge)](https://discord.gg/7HVnqgwCmh)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/HiFrey)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RMRPA)
 
 
 ### About Frey 🐉
