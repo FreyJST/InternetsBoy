@@ -1,1 +1,1 @@
->>>> https://internetsboy.engineer/Linux.html
+>>>> https://internetsboy.engineer/linux.html
