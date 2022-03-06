@@ -1,1 +1,1 @@
->>>> https://internetsboy.engineer/linux.html
+## No one trustable only Variable 
